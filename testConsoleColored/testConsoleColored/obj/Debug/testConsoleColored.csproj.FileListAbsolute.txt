@@ -1,7 +1,0 @@
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\bin\Debug\testConsoleColored.exe.config
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\bin\Debug\testConsoleColored.exe
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\bin\Debug\testConsoleColored.pdb
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\obj\Debug\testConsoleColored.csprojAssemblyReference.cache
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\obj\Debug\testConsoleColored.csproj.CoreCompileInputs.cache
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\obj\Debug\testConsoleColored.exe
-D:\Shared\testConsoleColored\testConsoleColored\testConsoleColored\obj\Debug\testConsoleColored.pdb
